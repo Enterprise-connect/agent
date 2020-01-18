@@ -1,0 +1,18 @@
+  ec-config:
+    conf:
+      mod: server
+      zon: <cf-service-id-aka-zone-id>
+      grp: <group id>
+      sst: <some service url>
+      hst: ws://localhost:18990/agent
+      dbg: true
+      cid: <cid>
+      csc: <csc>
+      oa2: <some oa2>/oauth/token
+      dur: 300
+      aid: <aid>
+      rpt: "18998"
+      rht: localhost
+      plg: true
+      cps: 5
+      

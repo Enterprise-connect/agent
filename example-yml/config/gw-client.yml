@@ -1,0 +1,14 @@
+ec-config:
+  conf:
+    mod: gw:client
+    lpt: "7990"
+    zon: <some zone>
+    grp: 012229-int
+    sst: <some_sst>
+    dbg: true
+    tkn: <some_token>
+    aid: <aid>
+    tid: <tid>
+    hst: http://localhost:18990
+    gpt: "18990"
+    pxy: <hello proxy>

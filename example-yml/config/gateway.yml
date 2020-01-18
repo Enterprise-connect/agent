@@ -1,0 +1,18 @@
+ec-config:
+  conf:
+    mod: gateway
+    gpt: "18990"
+    zon: <some zone>
+    grp: <some_group>
+    sst: <some_sst>
+    dbg: true
+    tkn: <some_token>
+    hst: http://localhost:18990
+    cps: 5
+    #indicating cert-based authentication
+    cta: true
+  creds:
+    <developer-id>:
+      privateKey: <pvk-base46>
+      publicKey: <pbk-base64>
+      passphrase: <pvk-passphrase-base64>

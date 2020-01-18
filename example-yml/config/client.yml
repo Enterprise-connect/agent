@@ -1,0 +1,16 @@
+ec-config:
+  conf:
+    mod: client
+    aid: <aid>
+    tid: <tid>
+    hst: ws://localhost:18990/agent
+    cid: cid
+    csc: csc
+    oa2: <some_oa2>/oauth/token
+    dur: 300
+    dbg: true
+    zon: 123-4851-9d6a-b70werwerwe
+    grp: 012022-int
+    cps: 5
+    fup: agent_solaris_sparc64_sys:ayasuda_copy_example_2
+    fdw: ayasuda_copy_example_2:anotherfile_example

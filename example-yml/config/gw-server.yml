@@ -1,0 +1,14 @@
+ec-config:
+  conf:
+    mod: gw:server
+    gpt: "18990"
+    zon: <zone>
+    grp: <group>
+    sst: <sst>
+    dbg: true
+    tkn: <some token>
+    aid: <aid>
+    rpt: "18998"
+    rht: localhost
+    plg: true
+    hst: http://localhost:17990
